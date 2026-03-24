@@ -49,7 +49,7 @@ An interactive Power BI dashboard designed to analyze Amazon sales data and unco
 ### 📂 Project Files
 
 * `Amazon_Sales_Dashboard.pbix`
-* Dataset (CSV / Excel)
+* Dataset (Excel)
 * Dashboard Screenshot
 
 ---
