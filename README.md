@@ -1,4 +1,4 @@
-# Power_BI_Dashboards
+# data-analytics-powerbi-portfolio
 
 # 📊 Data Analytics Portfolio | Power BI Projects
 
