@@ -42,7 +42,7 @@ An interactive Power BI dashboard designed to analyze Amazon sales data and unco
 
 ### 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ---
 
